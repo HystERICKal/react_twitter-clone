@@ -24,6 +24,7 @@ function Sidebar() {
             {/* SidebarOptions */}
             <SidebarOption active Icon={HomeIcon} text="Home"/>
             <SidebarOption Icon={SearchIcon} text="Explore"/>
+            {/* <a class="twitter-hashtag-button"href="https://twitter.com/intent/tweet">Tweet</a> */}
             <SidebarOption Icon={NotificationsNoneIcon} text="Notifications"/>
             <SidebarOption Icon={MailOutlineIcon} text="Messages"/>
             <SidebarOption Icon={BookmarkBoarderIcon} text="Bookmarks"/>
