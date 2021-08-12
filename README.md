@@ -16,9 +16,9 @@ Delete App.test.js, logo.svg, setupTests.js
 
 
 # Deploying on FIrebase
-'firebase login'
-'firebase init'
-select hosting option
-What do you want to use as your public directory? (public)-------> 'build'
-'npm run build'
-'firebase deploy'
+'firebase login'  
+'firebase init'  
+select hosting option  
+What do you want to use as your public directory? (public)-------> 'build'  
+'npm run build'  
+'firebase deploy'  
