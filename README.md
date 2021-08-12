@@ -22,3 +22,7 @@ select hosting option
 What do you want to use as your public directory? (public)-------> 'build'  
 'npm run build'  
 'firebase deploy'  
+  
+  
+Redirects  
+https://www.youtube.com/watch?v=e6qXUS3C550&ab_channel=hBlevs
