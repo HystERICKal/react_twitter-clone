@@ -12,7 +12,11 @@ Delete App.test.js, logo.svg, setupTests.js
 
 'npm link E:\MY_CODE\react_twitter-clone\node_modules\react' (To eliminate errors initially incase bundler might “see” two Reacts — one in application folder and one in your library folder) 
 
-'npm i react-twitter-embed'
+'npm i react-twitter-embed'  
+
+'npm install -g firebase-tools'  
+
+'npm i firebase'
 
 
 # Deploying on FIrebase
